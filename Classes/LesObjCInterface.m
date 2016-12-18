@@ -259,7 +259,7 @@ extern int iOS_inGame;
             btnStates[BTN_SELECT] = BUTTON_NO_PRESS;
 		}
 		
-		if (gameController.gamepad.rightShoulder.isPressed)
+		if (gameController.gamepad.buttonX.isPressed)
 		{
             gp2x_pad_status |= GP2X_START;
             btnStates[BTN_START] = BUTTON_PRESS;

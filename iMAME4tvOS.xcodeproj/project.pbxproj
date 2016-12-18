@@ -11,8 +11,6 @@
 		0A48C5941BB687770004FCB3 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A48C5931BB687770004FCB3 /* GameViewController.swift */; };
 		0A48C5971BB687770004FCB3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A48C5951BB687770004FCB3 /* Main.storyboard */; };
 		0A48C5991BB687770004FCB3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A48C5981BB687770004FCB3 /* Assets.xcassets */; };
-		0A7343EF1BED8A8800814197 /* dkong.zip in Resources */ = {isa = PBXBuildFile; fileRef = 0A7343ED1BED8A8800814197 /* dkong.zip */; };
-		0A7343F01BED8A8800814197 /* galaga.zip in Resources */ = {isa = PBXBuildFile; fileRef = 0A7343EE1BED8A8800814197 /* galaga.zip */; };
 		0AACBC9D1BB8D14B007C0EBF /* GameController.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0AACBC9C1BB8D14B007C0EBF /* GameController.framework */; };
 		0AACBC9F1BB8D164007C0EBF /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0AACBC9E1BB8D164007C0EBF /* AudioToolbox.framework */; };
 		0AACBCA11BB8D171007C0EBF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0AACBCA01BB8D171007C0EBF /* Foundation.framework */; };
@@ -42,11 +40,6 @@
 		0AACBCBA1BB8D98B007C0EBF /* icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E13888E13F5933C005CF68A /* icon-72.png */; };
 		0AACBCBB1BB8D98B007C0EBF /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E13888F13F5933C005CF68A /* icon.png */; };
 		0AACBCBC1BB8D98B007C0EBF /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E13889013F5933C005CF68A /* icon@2x.png */; };
-		0ACF75471BEEC7AE0037BA71 /* 1942.zip in Resources */ = {isa = PBXBuildFile; fileRef = 0ACF75411BEEC7AE0037BA71 /* 1942.zip */; };
-		0ACF75481BEEC7AE0037BA71 /* dkong.zip in Resources */ = {isa = PBXBuildFile; fileRef = 0ACF75421BEEC7AE0037BA71 /* dkong.zip */; };
-		0ACF75491BEEC7AE0037BA71 /* galaga.zip in Resources */ = {isa = PBXBuildFile; fileRef = 0ACF75431BEEC7AE0037BA71 /* galaga.zip */; };
-		0ACF754A1BEEC7AE0037BA71 /* pacman.zip in Resources */ = {isa = PBXBuildFile; fileRef = 0ACF75441BEEC7AE0037BA71 /* pacman.zip */; };
-		0ACF754B1BEEC7AE0037BA71 /* raiden.zip in Resources */ = {isa = PBXBuildFile; fileRef = 0ACF75451BEEC7AE0037BA71 /* raiden.zip */; };
 		0ACF754C1BEEC7AE0037BA71 /* timeplt.zip in Resources */ = {isa = PBXBuildFile; fileRef = 0ACF75461BEEC7AE0037BA71 /* timeplt.zip */; };
 		0AF567211BB75B7F002FA553 /* artwork.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 638F63FC12CCFDE500DF79C0 /* artwork.cpp */; };
 		0AF567221BB75B7F002FA553 /* audit.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 638F63FE12CCFDE500DF79C0 /* audit.cpp */; };
@@ -620,6 +613,27 @@
 		0AF5695F1BB75B7F002FA553 /* cinemat.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8E8FA5BC13E374FB00F9FCDB /* cinemat.cpp */; };
 		0AF569601BB75B7F002FA553 /* AnalogStick.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EBF352E13F59BFF00E39317 /* AnalogStick.m */; };
 		0AF569671BB75D7D002FA553 /* tvOSBootstrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AF569661BB75D7D002FA553 /* tvOSBootstrapper.m */; };
+		41C836841E071AF80044674B /* arkangc.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C836681E071AF80044674B /* arkangc.zip */; };
+		41C836851E071AF80044674B /* arkanoid.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C836691E071AF80044674B /* arkanoid.zip */; };
+		41C836861E071AF80044674B /* arknoidj.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C8366A1E071AF80044674B /* arknoidj.zip */; };
+		41C836871E071AF80044674B /* arknoidu.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C8366B1E071AF80044674B /* arknoidu.zip */; };
+		41C836881E071AF80044674B /* citycon.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C8366C1E071AF80044674B /* citycon.zip */; };
+		41C836891E071AF80044674B /* citycona.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C8366D1E071AF80044674B /* citycona.zip */; };
+		41C8368A1E071AF80044674B /* ddragon.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C8366E1E071AF80044674B /* ddragon.zip */; };
+		41C8368B1E071AF80044674B /* ddragonu.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C8366F1E071AF80044674B /* ddragonu.zip */; };
+		41C8368C1E071AF80044674B /* docastle.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C836701E071AF80044674B /* docastle.zip */; };
+		41C8368D1E071AF80044674B /* elevator.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C836711E071AF80044674B /* elevator.zip */; };
+		41C8368E1E071AF80044674B /* gberet.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C836721E071AF80044674B /* gberet.zip */; };
+		41C8368F1E071AF80044674B /* gng.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C836731E071AF80044674B /* gng.zip */; };
+		41C836901E071AF80044674B /* gngt.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C836741E071AF80044674B /* gngt.zip */; };
+		41C836931E071AF80044674B /* kungfum.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C836771E071AF80044674B /* kungfum.zip */; };
+		41C836961E071AF80044674B /* mpatrol.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C8367A1E071AF80044674B /* mpatrol.zip */; };
+		41C836991E071AF80044674B /* popeyebl.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C8367D1E071AF80044674B /* popeyebl.zip */; };
+		41C8369C1E071AF80044674B /* robocopu.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C836801E071AF80044674B /* robocopu.zip */; };
+		41C8369D1E071AF80044674B /* starforc.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C836811E071AF80044674B /* starforc.zip */; };
+		41C8369E1E071AF80044674B /* timeplt.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C836821E071AF80044674B /* timeplt.zip */; };
+		41C836A11E0722250044674B /* popeyef.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41C836A01E0722250044674B /* popeyef.zip */; };
+		41E5D5E91E072865005E5053 /* wboyu.zip in Resources */ = {isa = PBXBuildFile; fileRef = 41E5D5E81E072865005E5053 /* wboyu.zip */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -633,16 +647,9 @@
 		0A48C5A51BB687770004FCB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0A48C5AE1BB687770004FCB3 /* iMame4UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iMame4UITests.swift; sourceTree = "<group>"; };
 		0A48C5B01BB687770004FCB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0A7343ED1BED8A8800814197 /* dkong.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = dkong.zip; path = res/roms/dkong.zip; sourceTree = "<group>"; };
-		0A7343EE1BED8A8800814197 /* galaga.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = galaga.zip; path = res/roms/galaga.zip; sourceTree = "<group>"; };
 		0AACBC9C1BB8D14B007C0EBF /* GameController.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameController.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS9.0.sdk/System/Library/Frameworks/GameController.framework; sourceTree = DEVELOPER_DIR; };
 		0AACBC9E1BB8D164007C0EBF /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS9.0.sdk/System/Library/Frameworks/AudioToolbox.framework; sourceTree = DEVELOPER_DIR; };
 		0AACBCA01BB8D171007C0EBF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS9.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		0ACF75411BEEC7AE0037BA71 /* 1942.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = 1942.zip; path = res/roms/1942.zip; sourceTree = "<group>"; };
-		0ACF75421BEEC7AE0037BA71 /* dkong.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = dkong.zip; path = res/roms/dkong.zip; sourceTree = "<group>"; };
-		0ACF75431BEEC7AE0037BA71 /* galaga.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = galaga.zip; path = res/roms/galaga.zip; sourceTree = "<group>"; };
-		0ACF75441BEEC7AE0037BA71 /* pacman.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = pacman.zip; path = res/roms/pacman.zip; sourceTree = "<group>"; };
-		0ACF75451BEEC7AE0037BA71 /* raiden.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = raiden.zip; path = res/roms/raiden.zip; sourceTree = "<group>"; };
 		0ACF75461BEEC7AE0037BA71 /* timeplt.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = timeplt.zip; path = res/roms/timeplt.zip; sourceTree = "<group>"; };
 		0AF569651BB75D7D002FA553 /* tvOSBootstrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tvOSBootstrapper.h; sourceTree = "<group>"; };
 		0AF569661BB75D7D002FA553 /* tvOSBootstrapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tvOSBootstrapper.m; sourceTree = "<group>"; };
@@ -663,6 +670,28 @@
 		21FE4E3A184A8A700057A49D /* iCadeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iCadeView.m; sourceTree = "<group>"; };
 		21FE4E3C184A8D4E0057A49D /* libBTstack.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libBTstack.dylib; path = lib/libBTstack.dylib; sourceTree = SOURCE_ROOT; };
 		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		41C836621E0719270044674B /* popeyebl.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = popeyebl.zip; path = res/roms/popeyebl.zip; sourceTree = "<group>"; };
+		41C836681E071AF80044674B /* arkangc.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = arkangc.zip; path = res/roms/arkangc.zip; sourceTree = "<group>"; };
+		41C836691E071AF80044674B /* arkanoid.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = arkanoid.zip; path = res/roms/arkanoid.zip; sourceTree = "<group>"; };
+		41C8366A1E071AF80044674B /* arknoidj.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = arknoidj.zip; path = res/roms/arknoidj.zip; sourceTree = "<group>"; };
+		41C8366B1E071AF80044674B /* arknoidu.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = arknoidu.zip; path = res/roms/arknoidu.zip; sourceTree = "<group>"; };
+		41C8366C1E071AF80044674B /* citycon.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = citycon.zip; path = res/roms/citycon.zip; sourceTree = "<group>"; };
+		41C8366D1E071AF80044674B /* citycona.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = citycona.zip; path = res/roms/citycona.zip; sourceTree = "<group>"; };
+		41C8366E1E071AF80044674B /* ddragon.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = ddragon.zip; path = res/roms/ddragon.zip; sourceTree = "<group>"; };
+		41C8366F1E071AF80044674B /* ddragonu.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = ddragonu.zip; path = res/roms/ddragonu.zip; sourceTree = "<group>"; };
+		41C836701E071AF80044674B /* docastle.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = docastle.zip; path = res/roms/docastle.zip; sourceTree = "<group>"; };
+		41C836711E071AF80044674B /* elevator.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = elevator.zip; path = res/roms/elevator.zip; sourceTree = "<group>"; };
+		41C836721E071AF80044674B /* gberet.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = gberet.zip; path = res/roms/gberet.zip; sourceTree = "<group>"; };
+		41C836731E071AF80044674B /* gng.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = gng.zip; path = res/roms/gng.zip; sourceTree = "<group>"; };
+		41C836741E071AF80044674B /* gngt.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = gngt.zip; path = res/roms/gngt.zip; sourceTree = "<group>"; };
+		41C836771E071AF80044674B /* kungfum.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = kungfum.zip; path = res/roms/kungfum.zip; sourceTree = "<group>"; };
+		41C8367A1E071AF80044674B /* mpatrol.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = mpatrol.zip; path = res/roms/mpatrol.zip; sourceTree = "<group>"; };
+		41C8367D1E071AF80044674B /* popeyebl.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = popeyebl.zip; path = res/roms/popeyebl.zip; sourceTree = "<group>"; };
+		41C836801E071AF80044674B /* robocopu.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = robocopu.zip; path = res/roms/robocopu.zip; sourceTree = "<group>"; };
+		41C836811E071AF80044674B /* starforc.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = starforc.zip; path = res/roms/starforc.zip; sourceTree = "<group>"; };
+		41C836821E071AF80044674B /* timeplt.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = timeplt.zip; path = res/roms/timeplt.zip; sourceTree = "<group>"; };
+		41C836A01E0722250044674B /* popeyef.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = popeyef.zip; path = res/roms/popeyef.zip; sourceTree = "<group>"; };
+		41E5D5E81E072865005E5053 /* wboyu.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = wboyu.zip; path = res/roms/wboyu.zip; sourceTree = "<group>"; };
 		638F63FC12CCFDE500DF79C0 /* artwork.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = artwork.cpp; sourceTree = "<group>"; };
 		638F63FD12CCFDE500DF79C0 /* artwork.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = artwork.h; sourceTree = "<group>"; };
 		638F63FE12CCFDE500DF79C0 /* audit.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = audit.cpp; sourceTree = "<group>"; };
@@ -1602,14 +1631,29 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				0ACF75411BEEC7AE0037BA71 /* 1942.zip */,
-				0ACF75421BEEC7AE0037BA71 /* dkong.zip */,
-				0ACF75431BEEC7AE0037BA71 /* galaga.zip */,
-				0ACF75441BEEC7AE0037BA71 /* pacman.zip */,
-				0ACF75451BEEC7AE0037BA71 /* raiden.zip */,
+				41C836681E071AF80044674B /* arkangc.zip */,
+				41C836691E071AF80044674B /* arkanoid.zip */,
+				41C8366A1E071AF80044674B /* arknoidj.zip */,
+				41C8366B1E071AF80044674B /* arknoidu.zip */,
+				41C8366C1E071AF80044674B /* citycon.zip */,
+				41C8366D1E071AF80044674B /* citycona.zip */,
+				41C8366E1E071AF80044674B /* ddragon.zip */,
+				41C8366F1E071AF80044674B /* ddragonu.zip */,
+				41C836701E071AF80044674B /* docastle.zip */,
+				41C836711E071AF80044674B /* elevator.zip */,
+				41C836721E071AF80044674B /* gberet.zip */,
+				41C836731E071AF80044674B /* gng.zip */,
+				41C836741E071AF80044674B /* gngt.zip */,
+				41C836A01E0722250044674B /* popeyef.zip */,
+				41C836771E071AF80044674B /* kungfum.zip */,
+				41C8367A1E071AF80044674B /* mpatrol.zip */,
+				41C8367D1E071AF80044674B /* popeyebl.zip */,
+				41C836801E071AF80044674B /* robocopu.zip */,
+				41C836811E071AF80044674B /* starforc.zip */,
+				41C836821E071AF80044674B /* timeplt.zip */,
+				41C836621E0719270044674B /* popeyebl.zip */,
 				0ACF75461BEEC7AE0037BA71 /* timeplt.zip */,
-				0A7343ED1BED8A8800814197 /* dkong.zip */,
-				0A7343EE1BED8A8800814197 /* galaga.zip */,
+				41E5D5E81E072865005E5053 /* wboyu.zip */,
 				215F66A6184BC4240053E5A0 /* cheat.dat */,
 				215F66A7184BC4240053E5A0 /* clrmame.dat */,
 				215F66A8184BC4240053E5A0 /* gamelist.txt */,
@@ -2843,6 +2887,8 @@
 				TargetAttributes = {
 					0A48C58C1BB687770004FCB3 = {
 						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = RFTW95L5E5;
+						LastSwiftMigration = 0820;
 					};
 				};
 			};
@@ -2871,43 +2917,57 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A7343EF1BED8A8800814197 /* dkong.zip in Resources */,
 				0AACBCA31BB8D98B007C0EBF /* cheat.dat in Resources */,
 				0AACBCA41BB8D98B007C0EBF /* clrmame.dat in Resources */,
+				41C8369E1E071AF80044674B /* timeplt.zip in Resources */,
+				41C836871E071AF80044674B /* arknoidu.zip in Resources */,
+				41C836A11E0722250044674B /* popeyef.zip in Resources */,
 				0AACBCA51BB8D98B007C0EBF /* gamelist.txt in Resources */,
+				41C8368C1E071AF80044674B /* docastle.zip in Resources */,
 				0AACBCA61BB8D98B007C0EBF /* hiscore.dat in Resources */,
 				0AACBCA71BB8D98B007C0EBF /* nvram in Resources */,
-				0ACF754A1BEEC7AE0037BA71 /* pacman.zip in Resources */,
-				0ACF75491BEEC7AE0037BA71 /* galaga.zip in Resources */,
 				0AACBCA81BB8D98B007C0EBF /* skins in Resources */,
-				0A7343F01BED8A8800814197 /* galaga.zip in Resources */,
-				0ACF754B1BEEC7AE0037BA71 /* raiden.zip in Resources */,
+				41C836891E071AF80044674B /* citycona.zip in Resources */,
 				0AACBCA91BB8D98B007C0EBF /* artwork in Resources */,
+				41C836881E071AF80044674B /* citycon.zip in Resources */,
 				0AACBCAA1BB8D98B007C0EBF /* samples in Resources */,
+				41C836901E071AF80044674B /* gngt.zip in Resources */,
+				41C836961E071AF80044674B /* mpatrol.zip in Resources */,
 				0AACBCAB1BB8D98B007C0EBF /* SKIN_2 in Resources */,
+				41C8369D1E071AF80044674B /* starforc.zip in Resources */,
 				0AACBCAC1BB8D98B007C0EBF /* SKIN_3 in Resources */,
 				0AACBCAD1BB8D98B007C0EBF /* SKIN_1 in Resources */,
 				0AACBCAE1BB8D98B007C0EBF /* readme.txt in Resources */,
+				41C836841E071AF80044674B /* arkangc.zip in Resources */,
 				0AACBCAF1BB8D98B007C0EBF /* scanline-1.png in Resources */,
+				41C8368A1E071AF80044674B /* ddragon.zip in Resources */,
 				0AACBCB01BB8D98B007C0EBF /* scanline-2.png in Resources */,
+				41C8368B1E071AF80044674B /* ddragonu.zip in Resources */,
 				0AACBCB11BB8D98B007C0EBF /* border-iPad.png in Resources */,
+				41C8369C1E071AF80044674B /* robocopu.zip in Resources */,
+				41C836861E071AF80044674B /* arknoidj.zip in Resources */,
+				41C836991E071AF80044674B /* popeyebl.zip in Resources */,
 				0AACBCB21BB8D98B007C0EBF /* config_iPad.txt in Resources */,
 				0AACBCB31BB8D98B007C0EBF /* config_iPhone.txt in Resources */,
 				0AACBCB41BB8D98B007C0EBF /* crt-1.png in Resources */,
 				0AACBCB51BB8D98B007C0EBF /* crt-2.png in Resources */,
 				0AACBCB61BB8D98B007C0EBF /* Default-Landscape.png in Resources */,
-				0ACF75481BEEC7AE0037BA71 /* dkong.zip in Resources */,
 				0ACF754C1BEEC7AE0037BA71 /* timeplt.zip in Resources */,
+				41C836851E071AF80044674B /* arkanoid.zip in Resources */,
+				41C8368F1E071AF80044674B /* gng.zip in Resources */,
 				0AACBCB71BB8D98B007C0EBF /* Default-Portrait.png in Resources */,
 				0AACBCB81BB8D98B007C0EBF /* Default.png in Resources */,
 				0AACBCB91BB8D98B007C0EBF /* Default@2x.png in Resources */,
-				0ACF75471BEEC7AE0037BA71 /* 1942.zip in Resources */,
+				41C8368E1E071AF80044674B /* gberet.zip in Resources */,
 				0AACBCBA1BB8D98B007C0EBF /* icon-72.png in Resources */,
 				0AACBCBB1BB8D98B007C0EBF /* icon.png in Resources */,
 				0AACBCBC1BB8D98B007C0EBF /* icon@2x.png in Resources */,
+				41C836931E071AF80044674B /* kungfum.zip in Resources */,
 				0A48C5921BB687770004FCB3 /* art.scnassets in Resources */,
+				41E5D5E91E072865005E5053 /* wboyu.zip in Resources */,
 				0A48C5991BB687770004FCB3 /* Assets.xcassets in Resources */,
 				0A48C5971BB687770004FCB3 /* Main.storyboard in Resources */,
+				41C8368D1E071AF80044674B /* elevator.zip in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3519,6 +3579,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
+				DEVELOPMENT_TEAM = RFTW95L5E5;
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = NO;
 				GCC_CHAR_IS_UNSIGNED_CHAR = YES;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -3674,11 +3735,12 @@
 					"-lobjc",
 					"-lpthread",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ksmith.iMame4tvOS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aamattos.iMame4tvOS;
 				PRODUCT_NAME = "tvOS Mame";
 				PROVISIONING_PROFILE = "";
 				SDKROOT = appletvos;
 				STANDARD_C_PLUS_PLUS_LIBRARY_TYPE = dynamic;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 				USER_HEADER_SEARCH_PATHS = "src src/iOS src/zlib src/sound";
@@ -3707,6 +3769,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = RFTW95L5E5;
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = NO;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -3736,9 +3799,10 @@
 					"-Wshadow",
 					"-Wno-write-strings",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ksmith.iMame4tvOS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aamattos.iMame4tvOS;
 				PRODUCT_NAME = "tvOS Mame";
 				SDKROOT = appletvos;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 				VALIDATE_PRODUCT = YES;
